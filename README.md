@@ -1,4 +1,6 @@
 "# PyPiCommands" 
+# Install needed wheel and twine
+    pip install wheel twine
 ## Create wheel file locally
 
     python setup.py bdist_wheel
